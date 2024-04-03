@@ -98,5 +98,5 @@ Ensure that you have a MySQL database set up and running before using the applic
 
 ## Screenshots
 <h1></h1>
-<img src-"p2.png">
+<img src-p1.png>
 
