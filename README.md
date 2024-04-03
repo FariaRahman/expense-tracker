@@ -97,6 +97,13 @@ Follow the on-screen instructions to add expenses, check budgets, generate repor
 Ensure that you have a MySQL database set up and running before using the application.
 
 ## Screenshots
-<h1></h1>
-<img src-p1.png>
+![p1](https://github.com/FariaRahman/expense-tracker/assets/48916104/10c880c8-3fd1-4be0-a6ec-815dc5e12410)
+![p2](https://github.com/FariaRahman/expense-tracker/assets/48916104/54f6fc5c-0b6e-41bc-bb5a-53b7f9642758)
+![p3](https://github.com/FariaRahman/expense-tracker/assets/48916104/a8a12887-94e9-47fb-8da2-f91b9f15d0cb)
+![p4](https://github.com/FariaRahman/expense-tracker/assets/48916104/78e416aa-5e76-4d58-b2c5-663d9d03adfa)
+![p6](https://github.com/FariaRahman/expense-tracker/assets/48916104/a10c6f4a-ec96-420d-9889-afdbfe809394)
+
+
+
+
 
