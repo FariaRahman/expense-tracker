@@ -97,4 +97,6 @@ Follow the on-screen instructions to add expenses, check budgets, generate repor
 Ensure that you have a MySQL database set up and running before using the application.
 
 ## Screenshots
-<img-"">
+<h1></h1>
+<img src-"p2.png">
+
