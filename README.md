@@ -95,3 +95,6 @@ Upon running the application, you will be prompted to set the monthly budget and
 Follow the on-screen instructions to add expenses, check budgets, generate reports, and export data.
 
 Ensure that you have a MySQL database set up and running before using the application.
+
+## Screenshots
+<img-"">
