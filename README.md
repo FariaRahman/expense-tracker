@@ -14,13 +14,13 @@ a brief description of how I have created this Tracker , what it does and who ca
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
-| :-------- | :------- | :-------------------------------- |
+
 | `amount`      | `string` | **Required**. amount of items to fetch |
-| :-------- | :------- | :-------------------------------- |
+
 | `category`      | `string` | **Required**. categories of items to fetch |
-| :-------- | :------- | :-------------------------------- |
+
 | `Payment`      | `string` | **Required**. payment method of items to fetch |
-| :-------- | :------- | :-------------------------------- |
+
 | `budget`      | `string` | **Required**. seting budgets of items |
 
 #### SUM(Amount)
