@@ -4,14 +4,13 @@ Expense Tracker is a Python application that helps users manage their expenses b
 
 ## Features
 
-```http
   Set Monthly Budget: Users can set a monthly budget for overall spending.
   Category Budgets: Users can set budgets for individual spending categories such as groceries, utilities, entertainment, and custom categories.
   Add Expenses: Users can add expenses for each category, including the amount, description, location, and payment method.
   Budget Monitoring: The application compares actual expenses with set budgets and provides warnings if budget limits are exceeded.
   Detailed Reports: Users can generate detailed reports of expenses within a specified date range and for specific categories.
   Export Data: Users can export expense data to CSV or Excel files for further analysis.
-```
+
 
 ## API Reference
 
