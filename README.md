@@ -5,10 +5,15 @@ Expense Tracker is a Python application that helps users manage their expenses b
 ## Features
 
   Set Monthly Budget: Users can set a monthly budget for overall spending.
+  
   Category Budgets: Users can set budgets for individual spending categories such as groceries, utilities, entertainment, and custom categories.
+  
   Add Expenses: Users can add expenses for each category, including the amount, description, location, and payment method.
+  
   Budget Monitoring: The application compares actual expenses with set budgets and provides warnings if budget limits are exceeded.
+  
   Detailed Reports: Users can generate detailed reports of expenses within a specified date range and for specific categories.
+  
   Export Data: Users can export expense data to CSV or Excel files for further analysis.
 
 
@@ -33,6 +38,24 @@ Expense Tracker is a Python application that helps users manage their expenses b
 
 sums up the amounts for all the categories and also sums up the amounts for each category
 
+## Environmental Variables
+
+The application can be configured using the following environmental variables:
+
+HOST: The hostname of the MySQL database.
+
+USER: The username for accessing the MySQL database.
+
+PASSWORD: The password for accessing the MySQL database.
+
+DATABASE: The name of the MySQL database.
+
+## Servers Used
+
+XAMMP SERVER : for mysql
+
+VS CODE : As a editor for python
+
 ## Installation
 
 Clone the repository:
@@ -56,6 +79,7 @@ Install the required dependencies:
 Configure MySQL database:
 
 Set up a MySQL database and create tables using the provided SQL scripts in the sql directory.
+
 Update the MySQL connection details in the Final Code.py file to match your database configuration.
 
 Run the application:
@@ -67,5 +91,7 @@ Run the application:
 ## Usage
 
 Upon running the application, you will be prompted to set the monthly budget and budgets for individual categories.
+
 Follow the on-screen instructions to add expenses, check budgets, generate reports, and export data.
+
 Ensure that you have a MySQL database set up and running before using the application.
